@@ -1,5 +1,5 @@
 # Dark Theme for Old Reddit [RES]
-Save your eyes with this dark theme for [Old Reddit](https://old.reddit.com). 
+Save your eyes with this dark theme for [Old Reddit](https://old.reddit.com).
 
 ## Installation
 This theme requires the [Stylus](https://add0n.com/stylus.html) browser extension. Make sure to install that first then click the button below.
@@ -12,6 +12,7 @@ This theme requires the [Stylus](https://add0n.com/stylus.html) browser extensio
 - Only works when light theme is applied on Reddit
 - Disable all custom subreddit themes in [Reddit Preferences](https://www.reddit.com/prefs/) page (display options)
 - Works best with [Reddit Enhancement Suite](https://redditenhancementsuite.com/)
+- Find this theme on [UserStyles.world](https://userstyles.world/style/9581/dark-theme-for-old-reddit-res)
 
 ## Preview
 
