@@ -9,7 +9,7 @@ This theme requires the [Stylus](https://add0n.com/stylus.html) browser extensio
 ## Notes
 
 - Strictly for [Old Reddit](https://old.reddit.com)
-- Only works when light theme is on
+- Only works when light theme is applied on Reddit
 - Disable all custom subreddit themes in [Reddit Preferences](https://www.reddit.com/prefs/) page (display options)
 - Works best with [Reddit Enhancement Suite](https://redditenhancementsuite.com/)
 
