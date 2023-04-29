@@ -4,13 +4,13 @@
 @version            1.0.0
 @license            MIT
 @description        Save your eyes with this dark theme for Old Reddit.
-@author             Rej (Cirno)
-@website            https://vbucks.gg/rej
+@author             Rej (Cirno) (https://github.com/Rejdesu/)
 ==/UserStyle== */
 
-/*!!!PLEASE USE LIGHT THEME FOR THIS TO WORK!!!*/
+/*!!!PLEASE USE LIGHT THEME ON REDDIT FOR THIS TO WORK!!!*/
 /*!!!DISABLE ALL SUBREDDIT STYLES IN REDDIT PREFERENCES!!!*/
 
+@-moz-document domain("www.reddit.com"), domain("old.reddit.com") {
 /*main idk*/
 body {
     font: normal x-small verdana, arial, helvetica, sans-serif;
@@ -1741,4 +1741,5 @@ hr {
     background: #2a2a2a;
     cursor: pointer;
     color: transparent;
+}
 }
