@@ -4,7 +4,7 @@ Save your eyes with this dark theme for [Old Reddit](https://old.reddit.com).
 ## Installation
 This theme requires the [Stylus](https://add0n.com/stylus.html) browser extension. Make sure to install that first then click the button below.
 
-[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-%23b190fc?style=plastic&logo=css3)](https://github.com/Rejdesu/darkReddit/raw/main/main.user.css)
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-%23b190fc?style=plastic&logo=css3)](https://github.com/Rejdesu/darkReddit/blob/main/main.user.css)
 
 ## Notes
 
