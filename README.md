@@ -15,6 +15,7 @@ This theme requires the [Stylus](https://add0n.com/stylus.html) browser extensio
 - Find this theme on [UserStyles.world](https://userstyles.world/style/9581/dark-theme-for-old-reddit-res)
 
 ## Preview
+Image comparison slider [here.](https://imgsli.com/MTc0NTM0/0/1)
 
 <table><tr>
 <td> 
