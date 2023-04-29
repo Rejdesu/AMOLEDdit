@@ -1,14 +1,16 @@
 /* ==UserStyle==
 @name               Dark Theme for Old Reddit [RES]
-@namespace          https://github.com/Rejdesu/darkReddit
-@version            1.0.2
-@license            MIT
 @description        Save your eyes with this dark theme for Old Reddit.
-@author             https://github.com/Rejdesu/
+@version            1.0.0
+@license            MIT
+@namespace          https://github.com/Rejdesu/darkReddit
+@author             Rej <rejdesu@pm.me> (https://github.com/Rejdesu/)
 ==/UserStyle== */
 
-/*!!!PLEASE USE LIGHT THEME ON REDDIT FOR THIS TO WORK!!!*/
-/*!!!DISABLE ALL SUBREDDIT STYLES IN REDDIT PREFERENCES!!!*/
+/*!!! STRICTLY FOR OLD REDDIT !!!*/
+/*!!! PLEASE USE LIGHT THEME ON REDDIT FOR THIS TO WORK !!!*/
+/*!!! DISABLE ALL CUSTOM SUBREDDIT THEMES IN REDDIT PREFERENCES !!!*/
+/*!!! WORKS BEST WHEN REDDIT ENHANCEMENT SUITE BROWSER EXTENSION IS INSTALLED !!!*/
 
 @-moz-document domain("www.reddit.com"), domain("old.reddit.com") {
 /*main idk*/
