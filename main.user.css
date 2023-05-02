@@ -156,6 +156,12 @@ a:hover {
     display: inline-block;
 }
 
+/*linked comment*/
+.usertext.border .usertext-body {
+    background-color: #282828;
+    padding-left: 5px;
+}
+
 /*expando gate spoiler*/
 .expando-gate.expando-gate--interstitial {
     background: #1b1b1b;
