@@ -65,6 +65,18 @@ body {
     color: #56a9fc;
 }
 
+/*share*/
+.post-sharing {
+    background: #000000;
+    border: 1px solid #1d1d1d;
+    box-sizing: border-box;
+    display: none;
+    font-size: small;
+    max-width: 550px;
+    padding: 20px;
+    position: relative;
+}
+    
 /*a*/
 a {
     text-decoration: none;
