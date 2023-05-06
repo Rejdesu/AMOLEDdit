@@ -56,6 +56,12 @@ body {
     border-radius: 7px;
 }
 
+/*authorize*/
+.oauth2-authorize .access, .infobar.client-info {
+    background: #000;
+    border: 1px solid #1d1d1d;
+}
+
 /*page name*/
 .pagename a {
     color: #369;
