@@ -17,22 +17,7 @@ This theme requires the [Stylus](https://add0n.com/stylus.html) browser extensio
 ## Preview
 Image comparison slider [here.](https://imgsli.com/MTc0NTM0/0/1)
 
-<table><tr>
-<td> 
-  <p align="center" style="padding: 10px">
-    <img alt="Home Page" src="https://raw.githubusercontent.com/Rejdesu/darkReddit/main/imgs/preview1.png" width="540">
-    <br>
-    <em style="color: grey">Home</em>
-  </p> 
-</td>
-<td> 
-  <p align="center" style="padding: 10px">
-    <img alt="Comments Page" src="https://raw.githubusercontent.com/Rejdesu/darkReddit/main/imgs/preview2.png" width="540">
-    <br>
-    <em style="color: grey">Comments</em>
-  </p> 
-</td>
-</tr></table>
+<img src="https://raw.githubusercontent.com/Rejdesu/darkReddit/main/imgs/preview1.png" width="30%"></img> <img src="https://raw.githubusercontent.com/Rejdesu/darkReddit/main/imgs/preview2.png" width="30%"></img>
 
 ## License
 [![license MIT](https://img.shields.io/github/license/Rejdesu/darkReddit)](https://github.com/Rejdesu/darkReddit/blob/main/LICENSE)
