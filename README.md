@@ -20,4 +20,4 @@ Image comparison slider [here.](https://imgsli.com/MTc0NTM0/0/1)
 <img src="https://raw.githubusercontent.com/Rejdesu/darkReddit/main/imgs/preview1.png" width="30%"></img> <img src="https://raw.githubusercontent.com/Rejdesu/darkReddit/main/imgs/preview2.png" width="30%"></img>
 
 ## License
-[![license MIT](https://img.shields.io/github/license/Rejdesu/darkReddit)](https://github.com/Rejdesu/darkReddit/blob/main/LICENSE)
+[![license MIT](https://img.shields.io/github/license/Rejdesu/darkReddit?logo=github)](https://github.com/Rejdesu/darkReddit/blob/main/LICENSE)
