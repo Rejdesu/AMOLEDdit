@@ -3,7 +3,7 @@
 @namespace          https://github.com/Rejdesu/darkReddit
 @description        Save your eyes with this dark theme for Old Reddit.
 @author             Rej <rejdesu@pm.me> (https://github.com/Rejdesu/)
-@version            1.0.0
+@version            1.0.1
 @license            MIT
 ==/UserStyle== */
 
@@ -1767,5 +1767,10 @@ hr {
     background: #2a2a2a;
     cursor: pointer;
     color: transparent;
+}
+/*referenced comment highlight*/
+.usertext.border .usertext-body {
+  background-color: #202f38;
+  padding-left: 5px;
 }
 }
