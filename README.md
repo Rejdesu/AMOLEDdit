@@ -1,5 +1,5 @@
-# Dark Theme for Old Reddit [RES]
-Save your eyes with this dark theme for [Old Reddit](https://old.reddit.com).
+# AMOLEDdit
+Save your eyes with this dark theme for [Old Reddit](https://old.reddit.com). Compatible with [RES](https://redditenhancementsuite.com/).
 
 ## Installation
 This theme requires the [Stylus](https://add0n.com/stylus.html) browser extension. Make sure to install that first then click the button below.
@@ -8,16 +8,15 @@ This theme requires the [Stylus](https://add0n.com/stylus.html) browser extensio
 
 ## Notes
 
-- Strictly for [Old Reddit](https://old.reddit.com)
-- Only works when light theme is applied on Reddit
-- Disable all custom subreddit themes in [Reddit Preferences](https://www.reddit.com/prefs/) page (display options)
-- Works best with [Reddit Enhancement Suite](https://redditenhancementsuite.com/)
-- Find this theme on [UserStyles.world](https://userstyles.world/style/9581/dark-theme-for-old-reddit-res)
+- Strictly for [Old Reddit](https://old.reddit.com).
+- Disable all custom subreddit themes in [Reddit Preferences](https://www.reddit.com/prefs/) page (display options) for best experience.
+- Works best with [Reddit Enhancement Suite](https://redditenhancementsuite.com/).
+- Find this theme on [UserStyles.world](https://userstyles.world/style/9581/dark-theme-for-old-reddit-res).
+- This theme was developed and tested only on Firefox. There may be errors on other browsers.
 
 ## Preview
-Image comparison slider [here.](https://imgsli.com/MTc0NTM0/0/1)
 
-<img src="https://raw.githubusercontent.com/Rejdesu/darkReddit/main/imgs/preview1.png" width="49%"></img> <img src="https://raw.githubusercontent.com/Rejdesu/darkReddit/main/imgs/preview2.png" width="49%"></img>
+<img src="https://raw.githubusercontent.com/Rejdesu/darkReddit/main/preview/preview1.png" width="49%"></img> <img src="https://raw.githubusercontent.com/Rejdesu/darkReddit/main/preview/preview2.png" width="49%"></img>
 
 ## License
 [![license MIT](https://img.shields.io/github/license/Rejdesu/darkReddit?logo=github)](https://github.com/Rejdesu/darkReddit/blob/main/LICENSE)
