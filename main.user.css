@@ -3,7 +3,7 @@
 @namespace          https://github.com/Rejdesu/AMOLEDdit
 @description        Save your eyes with this dark theme for Old Reddit. Compatible with RES.
 @author             Rej <rejdesu@pm.me> (https://github.com/Rejdesu/)
-@version            1.0.3
+@version            1.0.4
 @license            MIT
 ==/UserStyle== */
 
@@ -11,8 +11,10 @@
 /*!!! WORKS BEST WHEN REDDIT ENHANCEMENT SUITE BROWSER EXTENSION IS INSTALLED !!!*/
 /*!!! DISABLE ALL CUSTOM SUBREDDIT THEMES IN REDDIT PREFERENCES FOR BEST EXPERIENCE !!!*/
 
-@-moz-document domain("www.reddit.com"), domain("old.reddit.com") {
-	/* font */
+@-moz-document domain("www.reddit.com"),
+domain("old.reddit.com") {
+	
+  /* font */
 	body {
 		font-family: "Noto Sans" !important;
 		background-color: transparent !important;
@@ -48,13 +50,16 @@
 	.res-nightmode .helpcenter-form .section-content {
 		background-color: #000 !important;
 	}
+
 	.res-nightmode .entry.res-selected,
 	.res-nightmode .entry.res-selected .md-container {
 		background-color: #000 !important;
 	}
+
 	.link.last-clicked {
 		border: none !important;
 	}
+
 	.res-nightmode .thing .title:visited,
 	.res-nightmode .thing.visited .title,
 	.res-nightmode .combined-search-page .search-result.visited a,
@@ -69,6 +74,7 @@
 		background-color: #1d1d1d !important;
 		color: #444 !important;
 	}
+
 	.res-nightmode #RESSubredditGroupDropdown a,
 	.res-nightmode .RESNotificationContent,
 	.res-nightmode .RESNotificationFooter,
@@ -76,6 +82,7 @@
 		font-family: "Noto Sans Mono" !important;
 		color: #e7e7e7 !important;
 	}
+
 	#sr-header-area {
 		border-bottom: 1px solid #222222 !important;
 		font-size: 100% !important;
@@ -106,9 +113,11 @@
 		border-top-left-radius: 5px !important;
 		border-top-right-radius: 5px !important;
 	}
+
 	.res-nightmode .tabmenu li.selected a {
 		border-bottom-color: #1d1d1d !important;
 	}
+
 	.tabmenu li.selected a {
 		border: 1px solid #333 !important;
 		border-top-left-radius: 5px !important;
@@ -168,6 +177,7 @@
 	.premium-banner {
 		display: none !important;
 	}
+
 	.premium-banner-outer {
 		display: none !important;
 	}
@@ -186,17 +196,20 @@
 		border: 1px solid #1d1d1d !important;
 		border-radius: 5px !important;
 	}
+
 	.multi-details form.add-sr button.add,
 	.filtered-details form.add-sr button.add {
 		border: 5px solid transparent;
 		border-radius: 5px !important;
 	}
+
 	.multi-details button.remove-sr.add,
 	.filtered-details button.remove-sr.add,
 	.multi-details button.add.add,
 	.filtered-details button.add.add {
 		background-image: url(https://i.imgur.com/AkgVTaO.png) !important;
 	}
+
 	.res-nightmode .subreddits .remove-sr,
 	.res-nightmode .add-sr .add {
 		filter: none !important;
@@ -221,18 +234,21 @@
 		.grippy {
 		background-color: #000 !important;
 	}
+
 	.res-nightmode body.with-listing-chooser .listing-chooser,
 	.res-nightmode
 		body.with-listing-chooser.listing-chooser-collapsed
 		.listing-chooser {
 		background-color: #000 !important;
 	}
+
 	.res-nightmode .listing-chooser li,
 	.res-nightmode .listing-chooser li.selected {
 		background-color: #111 !important;
 		color: #ececec !important;
 		border-color: #1d1d1d !important;
 	}
+
 	.res-nightmode body.with-listing-chooser .listing-chooser .grippy::after,
 	.res-nightmode
 		body.with-listing-chooser
@@ -255,10 +271,35 @@
 	.res-nightmode .entry.res-selected .md-container {
 		background-color: transparent !important;
 	}
+
 	.res-nightmode .entry.res-selected > .tagline,
 	.res-nightmode .entry.res-selected .md-container > .md,
 	.res-nightmode .entry.res-selected .md-container > .md p {
 		color: #ffffffe6 !important;
+	}
+
+	.res-commentBoxes.res-commentHoverBorder .content .comment:hover {
+		border-color: #1d1d1d !important;
+	}
+
+	/* res group dropdown */
+	#RESSubredditGroupDropdown {
+		background-color: #000 !important;
+	}
+
+	/* never ending reddit */
+	.res-nightmode #progressIndicator,
+	.res-nightmode .hover-bubble,
+	.res-nightmode .side .side-message,
+	.res-nightmode #editShortcutDialog,
+	.res-nightmode #RESShortcutsAddFormContainer {
+		border-color: #1d1d1d !important;
+		background-color: #111 !important;
+	}
+
+	/* sidebar */
+	.titlebox .bottom {
+		border-top: 1px solid #1d1d1d !important;
 	}
 
 	/* give gold */
@@ -275,6 +316,14 @@
 	/* stack border */
 	.panestack-title {
 		border-bottom: 1px dotted #444 !important;
+	}
+
+	/* ads and promoted */
+	.res-nightmode .organic-listing .link,
+	.res-nightmode .link.promotedlink,
+	.native-ad-container.native-sidebar-ad,
+	.native-ad-container {
+		display: none !important;
 	}
 
 	/* footer */
