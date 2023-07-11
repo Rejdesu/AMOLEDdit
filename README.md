@@ -12,6 +12,7 @@ This theme requires the [Stylus](https://add0n.com/stylus.html) browser extensio
 - Disable all custom subreddit themes in [Reddit Preferences](https://www.reddit.com/prefs/) page (display options) for best experience.
 - Works best with [Reddit Enhancement Suite](https://redditenhancementsuite.com/).
 - Find this theme on [UserStyles.world](https://userstyles.world/style/9581/dark-theme-for-old-reddit-res).
+- Requires both [Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans) and [Noto Sans Mono](https://fonts.google.com/noto/specimen/Noto+Sans+Mono) font to be installed.
 - This theme was developed and tested only on Firefox. There may be errors on other browsers.
 
 ## Preview
